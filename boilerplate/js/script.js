@@ -1,0 +1,1 @@
+console.log('Yuo are at  '+ window.location)
